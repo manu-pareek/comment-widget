@@ -10,7 +10,7 @@ A Widget which has functionalities like :
 - Option to sort comments by date, likes
 - On page reload, the comment section should display previous comments and likes
 
-
+Deployed link : https://manu-pareek.github.io/comment-widget/
 
 ## Run Locally
 
